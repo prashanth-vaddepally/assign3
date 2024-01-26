@@ -1,0 +1,13 @@
+.score-timer {
+  display: flex;
+  flex-direction: row;
+}
+.the-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #2c0e3a;
+}
+.score-color {
+  color: #fec653;
+}
